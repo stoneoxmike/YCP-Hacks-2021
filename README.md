@@ -3,4 +3,4 @@ This project was completed for YCP Hacks in 2021. The goal was to have a stepper
 # Files
 #### MIDI_Stepper_V1.ino - This is the main Arduino Sketch for an Arduino MEGA
 #### pitches.h - This file contains the relations of MIDI note pitch to stepper motor speed in microseconds
-#### Africa edit export 1.mid - This is an example MIDI file with a 4 channel mix of Africa, Star Wars, and Pirates of the Caribbean
+#### Africa Edit Export 1.mid - This is an example MIDI file with a 4 channel mix of Africa, Star Wars, and Pirates of the Caribbean
