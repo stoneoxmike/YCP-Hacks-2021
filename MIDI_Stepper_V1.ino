@@ -7,10 +7,6 @@
 /*
  * MIDI STEPPER V1
  * 
- * By Jonathan Kayne / jzkmath
- * April 2018
- * https://github.com/jzkmath/Arduino-MIDI-Stepper-Motor-Instrument
- * 
  * Takes MIDI data and converts it to stepper music!
  * Since the steppers only need to spin in one direction,
  * you only need to control the STEP pin on the A4988 driver
