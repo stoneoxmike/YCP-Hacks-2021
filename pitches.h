@@ -1,7 +1,5 @@
 /*
    pitches.h
-   Made By Jonathan Kayne
-   April 2018
 
    This is an array of MIDI pitches and their respective speed values.
    The index is the MIDI pitch value
